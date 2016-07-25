@@ -1,0 +1,29 @@
+name: marthamena
+favicon: null
+layout_spectrum: 0.7951625150162727
+typography_spectrum: 0.6530280318111181
+title: martha mena photograohy
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.08167525357566774
+  lightness: 0.600314378971234
+  saturation: 0.634830777766183
+  rhythmicContrast: 0.08983248169533908
+purpose: []
