@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'San Francisco, California 2016'
-datePublished: '2016-07-27T21:16:07.837Z'
-dateModified: '2016-07-25T19:47:40.082Z'
+datePublished: '2016-07-27T21:16:07.940Z'
+dateModified: '2016-07-25T19:46:57.421Z'
 title: ''
 author: []
 via: {}
@@ -22,6 +22,6 @@ url: san-francisco-california-2016/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/68a7810d-8e48-4e6f-9190-d7be494848a8.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/44396ec0-55ae-4ddb-a25a-ed6679b608f6.jpg)
 
 San Francisco, California 2016
