@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Punta del Este, Uruguay 2014'
-datePublished: '2016-07-27T21:16:20.389Z'
-dateModified: '2016-07-25T19:40:57.860Z'
+datePublished: '2016-07-27T21:16:20.422Z'
+dateModified: '2016-07-25T19:47:59.342Z'
 title: ''
 author: []
 via: {}
@@ -22,6 +22,6 @@ url: punta-del-este-uruguay-2014/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3659b2f8-4300-4b73-9f4f-463d25f2c5e9.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/86b58cfc-be95-4706-a17e-062de8761f3e.jpg)
 
 Punta del Este, Uruguay 2014
