@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[martha mena photograohy]]></title>
         <description><![CDATA[martha mena photograohy]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/marthamena/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 27 Jul 2016 21:14:46 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 27 Jul 2016 21:14:47 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/marthamena/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/fb52710f-c9e9-4239-878b-869011a82564.jpg">]]></description>
+            <link>https://thegrid.ai/marthamena/bari-italy-2013/index.html</link>
+            <guid isPermaLink="false">480648b4-9a1f-47b2-98b0-4e6263445df5</guid>
+            <pubDate>Wed, 27 Jul 2016 21:14:44 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/92d0bfa6-fb69-4382-8707-eca442f493d4.jpg">]]></description>
-            <link>undefinedbuenos-aires-argentina-2013/index.html</link>
+            <link>https://thegrid.ai/marthamena/buenos-aires-argentina-2013/index.html</link>
             <guid isPermaLink="false">8df6fdb7-a924-441d-8eee-f629accdb33d</guid>
             <pubDate>Wed, 27 Jul 2016 21:14:44 GMT</pubDate>
         </item>
