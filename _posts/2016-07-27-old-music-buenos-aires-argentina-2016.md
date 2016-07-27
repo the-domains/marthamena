@@ -4,9 +4,9 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: 'Old music. Buenos Aires, Argentina 2016'
-datePublished: '2016-07-27T21:16:07.580Z'
-dateModified: '2016-07-25T21:48:58.443Z'
+description: 'Old Music, Buenos Aires, Argentina 2016'
+datePublished: '2016-07-27T21:16:07.677Z'
+dateModified: '2016-07-25T19:56:06.532Z'
 title: ''
 author: []
 via: {}
@@ -22,6 +22,6 @@ url: old-music-buenos-aires-argentina-2016/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ce6ba99c-778a-4570-a804-8c936da0f3e7.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8d3df9f3-7da7-4a23-b03c-e65d08b1631a.jpg)
 
-Old music. Buenos Aires, Argentina 2016
+Old Music, Buenos Aires, Argentina 2016
