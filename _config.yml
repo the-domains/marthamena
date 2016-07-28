@@ -1,4 +1,23 @@
+name: marthamena
+favicon: null
+layout_spectrum: 0.25103
 typography_spectrum: 0
+author:
+  url: www.marthamena.com
+  name: Martha Mena
+title: 'Martha Mena '
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors:
     - '#FF6700'
@@ -6,27 +25,8 @@ color:
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
-  brandStrength: 0.3125
+  brandStrength: 1
   lightness: 1
-  saturation: 0.5
+  saturation: 1
   rhythmicContrast: 0.5
-opengraph:
-  image: null
-  type: null
-  appId: null
-layout_spectrum: 0.25103
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-author:
-  url: www.marthamena.com
-  name: Martha Mena
-name: marthamena
-cta:
-  domain: null
-  bucket: null
-  version: null
-favicon: null
-title: 'Martha Mena '
 purpose: []
