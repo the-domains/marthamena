@@ -19,6 +19,9 @@ analytics:
   google: null
   facebook: null
   twitter: null
+author:
+  url: www.marthamena.com
+  name: Martha Mena
 name: marthamena
 cta:
   domain: null
