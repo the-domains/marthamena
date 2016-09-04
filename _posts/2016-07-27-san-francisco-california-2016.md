@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-09-01T21:15:44.029Z'
+datePublished: '2016-09-01T21:18:41.456Z'
 sourcePath: _posts/2016-07-27-san-francisco-california-2016.md
 inFeed: true
 authors: []
@@ -9,7 +9,7 @@ author:
   - name: ''
     url: ''
 via: {}
-dateModified: '2016-09-01T21:15:43.487Z'
+dateModified: '2016-09-01T21:18:40.681Z'
 title: ''
 publisher: {}
 description: 'San Francisco, California 2016'
