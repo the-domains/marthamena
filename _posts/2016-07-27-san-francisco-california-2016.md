@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-28T19:25:31.197Z'
+datePublished: '2016-09-01T21:15:44.029Z'
 sourcePath: _posts/2016-07-27-san-francisco-california-2016.md
 inFeed: true
 authors: []
@@ -9,7 +9,7 @@ author:
   - name: ''
     url: ''
 via: {}
-dateModified: '2016-07-28T19:25:30.659Z'
+dateModified: '2016-09-01T21:15:43.487Z'
 title: ''
 publisher: {}
 description: 'San Francisco, California 2016'
@@ -20,6 +20,6 @@ url: san-francisco-california-2016/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/44396ec0-55ae-4ddb-a25a-ed6679b608f6.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/68a7810d-8e48-4e6f-9190-d7be494848a8.jpg)
 
 San Francisco, California 2016
