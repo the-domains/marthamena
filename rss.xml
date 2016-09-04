@@ -4,7 +4,7 @@
         <description><![CDATA[Martha Mena ]]></description>
         <link>https://thegrid.ai/marthamena/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 28 Jul 2016 22:17:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Sep 2016 21:15:27 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/marthamena/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/marthamena/martha-mena/index.html</link>
             <guid isPermaLink="false">2f47ca6d-5eba-4bef-9ebc-952261ca111e</guid>
             <pubDate>Wed, 27 Jul 2016 21:15:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/8145ba049c22205cb797ff76f1450af9/croprotate.jpg?cropheight=2830&cropwidth=4256&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F92d0bfa6-fb69-4382-8707-eca442f493d4.jpg&x=0&y=0">]]></description>
+            <link>https://thegrid.ai/marthamena/buenos-aires-argentina-2013/index.html</link>
+            <guid isPermaLink="false">8df6fdb7-a924-441d-8eee-f629accdb33d</guid>
+            <pubDate>Thu, 01 Sep 2016 21:15:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -67,13 +74,6 @@
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/68a7810d-8e48-4e6f-9190-d7be494848a8.jpg">]]></description>
             <link>https://thegrid.ai/marthamena/san-francisco-california-2016/index.html</link>
             <guid isPermaLink="false">3818db3a-8251-4496-bea8-9eca950872d5</guid>
-            <pubDate>Wed, 27 Jul 2016 21:16:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8d3df9f3-7da7-4a23-b03c-e65d08b1631a.jpg">]]></description>
-            <link>https://thegrid.ai/marthamena/old-music-buenos-aires-argentina-2016/index.html</link>
-            <guid isPermaLink="false">03761fd0-ca71-4e32-b27e-51b24a340499</guid>
             <pubDate>Wed, 27 Jul 2016 21:16:07 GMT</pubDate>
         </item>
     </channel>
